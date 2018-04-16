@@ -1,4 +1,3 @@
 # UsualThings
-My Firs projects will appear here soon.
-html
-ddddddd
+My First projects will appear here soon.
+
